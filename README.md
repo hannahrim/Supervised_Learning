@@ -1,5 +1,5 @@
 # Supervised_Learning
-In this Challenge I conducted and evaluated several machine learning models to asses loan risk. I implemented machine learning models, used resampling to address the class imbalance, and evaluated the performance of these models. 
+In this repository, I conducted and evaluated several machine learning models to asses loan risk. I implemented machine learning models, used resampling to address the class imbalance, and evaluated the performance of these models. 
 
 I used three techniques to address class imbalance: oversampling, undersampling, and a combination approach. The minority class in this case is high_risk loan status with a count of 347, while high risk count was 68470. 
 
